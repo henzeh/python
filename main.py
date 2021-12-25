@@ -30,6 +30,6 @@ book.report_grade('Leeghim H', 90)
 print(book.average_grade('Leeghim H'))
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm, This is leeghim; a New message is given for you ')
+    print_hi('PyCharm, This is leeghim; a New message is given for you; this is for branch test')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
