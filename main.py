@@ -46,5 +46,7 @@ if __name__ == '__main__':
     print_hi('PyCharm, This is leeghim; a New message is given for you; this is for branch test')
     print_hi('PyCharm, This is leeghim; a New message is given for you; this is for branch test')
     print_hi('PyCharm, This is leeghim; a New message is given for you; this is for branch test')
+    print_hi('teststestestestPyCharm, This is leeghim; a New message is given for you; this is for branch test')
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
